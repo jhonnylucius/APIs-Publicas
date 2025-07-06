@@ -2,6 +2,16 @@
 
 Com o objetivo de facilitar a implementação de projetos front-end, apresentamos uma lista organizada de APIs públicas que você pode utilizar. Explore as diversas categorias e encontre a API perfeita para o seu projeto!
 
+## APIs de um banco de dados de produtos alimentícios
+
+   - O Open Food Facts é um banco de dados de produtos alimentícios criado por todos, para todos, que pode ajudar você a fazer escolhas melhores sobre o que come. Por serem dados abertos, qualquer pessoa pode reutilizá-los para qualquer finalidade.
+
+   - A API Open Food Facts permite que desenvolvedores obtenham informações como ingredientes e valores nutricionais de produtos, e até mesmo adicionem mais informações ao banco de dados de produtos. Você pode usar a API para criar aplicativos que permitam aos usuários contribuir para o banco de dados e fazer escolhas alimentares mais saudáveis.
+
+1.  **OpenFoods:** Encontre produtos pelo código de barras.
+    [Open Food Facts](https://openfoodfacts.github.io/openfoodfacts-server/api/)
+  
+
 ## APIs de Música
 
 1.  **Deezer:** Encontre músicas, álbuns e artistas.
