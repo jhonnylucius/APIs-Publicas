@@ -1,4 +1,4 @@
-# APIs Públicas para Projetos Front-End
+# MAIS DE 80 APIs Públicas para seus Projetos 
 
 Com o objetivo de facilitar a implementação de projetos front-end, apresentamos uma lista organizada de APIs públicas que você pode utilizar. Explore as diversas categorias e encontre a API perfeita para o seu projeto!
 
@@ -209,6 +209,203 @@ Com o objetivo de facilitar a implementação de projetos front-end, apresentamo
     [Clash of Clans API](https://developer.clashofclans.com/)
 12. **PUBG:** Informações sobre o jogo PUBG.
     [PUBG API](https://developer.pubg.com/)
+
+
+## # 80 APIS
+
+Nem sempre é simples implementar um back-end, ou ter os dados para popular ele e conseguir implementar projetos front-end com os dados aparecendo e com possibilidade de edição.
+
+Com o objetivo de facilitar a implementação de projetos front-end, você pode utilizar APIs disponíveis.
+
+Vem conferir!
+
+### APIs DE MUSICA
+
+1. Shazan: Reconhecimento de música ([clique aqui…](https://t.co/UpaReDWUUB))
+
+2. Theaudiodb: Pesquise músicas ([clique aqui…](https://t.co/pSvbhbjzT0))
+
+3. Deezer: Encontrar músicas, albuns e artistas ([clique aqui...](https://t.co/uRR7kXMMlu))
+
+4. iTunes: Encontre músicas ([clique aqui…](https://t.co/vTGBmEZWQl))
+
+5. Spotify: Ouça e encontre músicas ([clique aqui…](https://t.co/dsMpkQujrO))
+
+6. RadioAir: Mais de 30.000 rádios ([clique aqui…](https://t.co/idqT5vh5dr))
+
+### LOGIN NAS REDES SOCIAIS
+
+7. Facebook ([clique aqui…](https://t.co/k8tBHJUEIu))
+
+8. Google ([clique aqui…](https://t.co/WBUEHdutkl))
+
+9. Twitter ([clique aqui…](https://t.co/2oRKg0OKKx))
+
+10. Apple ([clique aqui…](https://t.co/ATzgJxF2ar))
+
+11. GitHub: Também possibilita integrações ([clique aqui…](https://t.co/ehX8TvWuZJ))
+
+12. GitLab ([clique aqui…](https://t.co/3FVQtzYNT0))
+
+13. Slack: ([clique aqui…](https://api.slack.com/authentication/sign-in-with-slack))
+
+14. Discord: ([clique aqui…](https://discord.com/developers/docs/topics/oauth2))
+
+15. Jira: ([clique aqui…](https://developer.atlassian.com/cloud/jira/platform/basic-auth-for-rest-apis/))
+
+16. Auth0: ([clique aqui…](https://auth0.com/docs/api/authentication))
+
+17. MojoAuth ([clique aqui…](https://mojoauth.com/docs/api/#api-references))
+
+### MAPAS
+
+18. OpenStreetMap ([clique aqui...](https://t.co/Frz1VSXy2d))
+
+19. MapBox: Personalização ([clique aqui...](https://t.co/SiZy7UbjuT))
+
+20. TOMTOM: Mapas, georreferenciamento, rotas. ([clique aqui…](https://developer.tomtom.com/))
+
+21. HERE ([clique aqui...](https://t.co/QAY39bDPNA))
+
+22. Microsoft ([clique aqui…](https://t.co/4jw1Qe7SC1))
+
+23. Mapquest ([clique aqui...](https://t.co/XTD1EB20Sm))
+
+### ENDEREÇOS
+
+24. ViaCep ([clique aqui...](https://t.co/hjZLWDznMf))
+
+25. Correios ([clique aqui...](https://t.co/WuQRMXE5HE))
+
+26. APICep ([clique aqui…](https://t.co/TW0smBXYt3))
+
+27. WebMania: CEP e IBGE ([clique aqui...](https://t.co/iIOCgCsbjj))
+
+28. Country State City ([clique aqui...](https://t.co/ceocrlUsot))
+
+29. OnWater: Verifica se um ponto está na terra ou no mar ([clique aqui...](https://t.co/9rAGxi3Ahe))
+
+### DEV
+
+30. APIIP: Mostra informações sobre um IP ([clique aqui...](https://t.co/hRWpByHRgt))
+
+31. Codeforces ([clique aqui…](https://t.co/ySV1Gm8t2P))
+
+32. Hackerearth ([clique aqui…](https://t.co/yvyTzvLnZR))
+
+33. Judgeo CE API ([clique aqui...](https://t.co/yuUVctVOwn))
+
+34. Kontests API [(clique aqui...)](https://t.co/Zky0ARiGeX)
+
+INPE - Instituto Nacional de pesquisas espaciais
+
+[http://servicos.cptec.inpe.br/XML/](https://t.co/nIfGW1nLwk)
+
+35. Situação nas Estações de Superfície dos Aeroportos
+
+36. Condições meteorológicas atuais das capitais
+
+37. Previsão de tempo para 4 dias
+
+38. Previsão de tempo para 7 dias
+
+39. Previsão de tempo estendida
+
+40. Condições atuais de incidência de radiação UV
+
+41. Previsão de Ondas para localidades litorâneas
+
+### ESPAÇO E NASA
+
+42. SpaceFlightNewsAPI: Novidades sobre o espaço ([clique aqui...](https://t.co/cLruQAfKA3))
+
+Nasa: [https://api.nasa.gov](https://t.co/BMHQXhQHGQ)
+
+43. APOD: Imagem de Astronomia do Dia
+
+44. Asteroids NeoWs: Serviço Web de Objetos Próximos à Terra
+
+45. DONKI: Banco de dados do clima espacial de notificações, conhecimento, informações
+
+46. Terra: Desbloqueie o investimento público significativo em dados de observação da Terra
+
+47. EONET: The Earth Observatory Natural Event Tracker
+
+48. EPIC: Câmera de imagem policromática da Terra
+
+49. Exoplanet: acesso programático ao banco de dados Exoplanet Archive da NASA
+
+50. GeneLab: interface programática para o site do repositório de dados público do GeneLab
+
+51. Insight: API do serviço meteorológico de Marte
+
+52. Fotos do Mars Rover: dados de imagem coletados pelos rovers Curiosity, Opportunity e Spirit da NASA em Marte
+
+53. NASA Image and Video Library: API para acessar o site da NASA Image and Video Library em [http://images.nasa.gov](https://t.co/tCVVMC3UBz)
+
+54. TechTransfer: Patentes, Software e Relatórios de Transferência de Tecnologia
+
+55. Centro de Situação de Satélite: Sistema para lançar informações de localização de espaçonaves geocêntricas em uma estrutura de regiões geofísicas (empíricas)
+
+56. SSD/CNEOS: Dinâmica do Sistema Solar e Centro de Estudos de Objetos Próximos à Terra
+
+57. Techport: Dados de projetos da NASA em formato legível por máquina
+
+58. API TLE: Dados de elemento de duas linhas para objetos em órbita terrestre em um determinado ponto no tempo
+
+59. Vesta/Moon/Mars Trek WMTS: Projetos de imagens Vesta, Moon e Mars Trek
+
+### ARMAZENAMENTO
+
+60. Google Cloud ([clique aqui…](https://t.co/wgcKdLdqrb))
+
+61. Azure Storage ([clique aqui…](https://t.co/krCxhbou9f))
+
+62. One drive ([clique aqui...](https://t.co/e59Ad9P7Na))
+
+63. DropBox ([clique aqui…](https://t.co/pVw3sJhbzG))
+
+64. Amazon S3 ([clique aqui…](https://t.co/6tjg99YvNB))
+
+65. Google Drive ([clique aqui...](https://t.co/m0DK1PXv45))
+
+### BESTEIRINHAS
+
+66. FOAAS: Foda-se como um serviço ([clique aqui...](https://t.co/YapNUtC6pe))
+
+67. DeckofcardsAPI: Baralhos e cartas ([clique aqui...](https://t.co/qov3Bj17Np))
+
+68. RickAndMortyAPI ([clique aqui...](https://t.co/7jZBrKfoSP))
+
+69. TheCatAPI: Fotos de gatinhos ([clique aqui...](https://t.co/ByaCi3nfZP))
+
+70. TheDogAPI: Fotos de cachorros ([clique aqui...](https://t.co/raNOHHnJXZ))
+
+71. Kanye Rest: Frases do Kanye West ([clique aqui...](https://t.co/7Kf5dxvU6s))
+
+72. Chuck Norris IO: ([clique aqui...)](https://t.co/0QmI8vfH1h)
+
+73. FunTranslations: APIs de traduções divertidas como de frases do Yoda, idioma Valeriano e outros. ([clique aqui...)](https://t.co/gnmgarwCKj)
+
+74. TheCocktailDB - Mostra ingredientes de coquetel ([clique aqui...](https://t.co/ZitkvgxVTe))
+
+75. LoveCalculator - Calcula a compatibilidade com seu amor ([clique aqui…](https://t.co/DAcXAOmvXA))
+
+76. NumbersAPI - Curiosidades sobre números ([clique aqui...)](https://t.co/pxC1KLW6Ui)
+
+77. Meme generator [(clique aqui...](https://t.co/gs9iONs4RF))
+
+78. BallDontLie NBA ([clique aqui...)](https://t.co/IINN1cYr4V)
+
+79. Pokemon Go ([clique aqui...](https://t.co/l89udZLFR7))
+
+80. STAR Wars API [(clique aqui...](https://t.co/zt0y08y4rE))
+
+Curtiu?
+
+Espero que te ajude a incrementar o teu portifólio!
+
+Interage pra chegar em mais pessoas!
 
 **Observação:** Alguns links podem levar para a página inicial da documentação ou página principal do serviço, será necessário procurar pela página específica da API.
 
